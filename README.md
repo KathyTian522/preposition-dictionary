@@ -1,0 +1,4 @@
+本词条明确标示介词for在该功能下的语义功能（word function）为to express Purpose function，帮助学习者迅速识别该用法的核心功能。在定义（definition）的呈现方式上，本词条延续了COBUILD词典的整句定义风格，以完整句子的形式给出语义定义，更贴合实际语言使用环境，便于理解。此外，定义中纳入了根据真实语料库自下而上提取的核心语义类别——语义集（meaning groups），如perform a task（执行任务）、intended outcome（预期结果）和achieving a better result（实现更好结果），进一步清晰地展示了该用法的常见语义框架。
+值得注意的是，若语料分析显示出某种特定的语义韵（semantic prosody），词条也特别在定义中标注，以引导学习者对语境敏感度的培养，例如这里的achieving a better result，强调该结构往往与积极的语义相关。
+在释义之后，本词条进一步呈现了局部语法型式，明确指出了介词for在表达目的功能时，通常出现在一个动作或状态的词项之后，可能伴随宾语或双宾语结构，具体语法结构标记为：Action[v|n|-ing] | State[n|adj.|v] | Participant[n] + ([n]) + for + Goal | State | Action[n|-ing]。同时指出后续的目标或动作往往以名词短语或动名词形式出现，便于学习者准确把握该语法的搭配与用法模式。
+最后，本词条中的例句均从真实语料库中选取，为满足学习者识解需求而对句子做出了适当的简化；同时还标示出乐介词在该功能下的典型、地道且高频的搭配，例如for the purpose of，for his fitness，for a small loan等，帮助学习者更高效地将该用法与常见的搭配及语境联系起来，体悟其在实际语言使用中的灵活运用。
